@@ -1,6 +1,5 @@
 # codingan-kuis-
 
-/**
  * TODO:
  * Buatlah sebuah variabel dengan nama evenNumber yang merupakan sebuah array dengan ketentuan:
  *   - Array tersebut menampung bilangan genap dari 1 hingga 100
@@ -10,10 +9,10 @@
  */
 
 // Tulis kode di bawah ini
+
+
+
 let evenNumber =[];
-
-
-
 for(i = 1; i <=100; i++) {
 
     if(i % 2 === 0){
